@@ -1,0 +1,16 @@
+{
+  "name": "sqlitebackend",
+  "version": "1.0.0",
+  "description": "A sqlite3 app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautam Mahato",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
